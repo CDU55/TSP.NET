@@ -1,0 +1,14 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\Laborator5.exe.config
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\Laborator5.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\Laborator5.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\EntityFramework.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\EntityFramework.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.csproj.CopyComplete
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.Migrations.Scenariu1.resources
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.csproj.GenerateResource.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\Laborator5\Laborator5\obj\Debug\Laborator5.Migrations.Scenariu2.Scenariu2Migration.resources
