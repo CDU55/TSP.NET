@@ -1,0 +1,9 @@
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\bin\Debug\Laborator2.exe.config
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\bin\Debug\Laborator2.exe
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\bin\Debug\Laborator2.pdb
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.csprojAssemblyReference.cache
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.Form1.resources
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.Properties.Resources.resources
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.csproj.GenerateResource.cache
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.exe
+C:\Users\Claudiu\source\repos\Laborator2\Laborator2\obj\Debug\Laborator2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\ModelDesignFirst.exe.config
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\ModelDesignFirst.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\ModelDesignFirst.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\EntityFramework.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\EntityFramework.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\obj\Debug\ModelDesignFirst.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\obj\Debug\ModelDesignFirst.csproj.CopyComplete
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\obj\Debug\ModelDesignFirst.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\ModelDesignFirst\ModelDesignFirst\obj\Debug\ModelDesignFirst.pdb

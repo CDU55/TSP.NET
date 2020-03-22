@@ -1,0 +1,10 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\bin\Debug\netcoreapp3.1\CodeFirstEFCore.deps.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\bin\Debug\netcoreapp3.1\CodeFirstEFCore.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\obj\Debug\netcoreapp3.1\CodeFirstEFCore.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\obj\Debug\netcoreapp3.1\CodeFirstEFCore.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\obj\Debug\netcoreapp3.1\CodeFirstEFCore.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\bin\Debug\netcoreapp3.1\CodeFirstEFCore.runtimeconfig.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\bin\Debug\netcoreapp3.1\CodeFirstEFCore.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\bin\Debug\netcoreapp3.1\CodeFirstEFCore.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\obj\Debug\netcoreapp3.1\CodeFirstEFCore.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\CodeFirstEFCore\CodeFirstEFCore\CodeFirstEFCore\obj\Debug\netcoreapp3.1\CodeFirstEFCore.pdb
