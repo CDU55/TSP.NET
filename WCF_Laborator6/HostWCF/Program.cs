@@ -1,5 +1,4 @@
 ﻿using ObjectWCF;
-using PostComment;
 using System;
 using System.ServiceModel;
 using System.ServiceModel.Description;
@@ -21,12 +20,6 @@ namespace HostWCF
             Console.WriteLine("Apasati Enter pentru a opri serverul!");
             Console.ReadKey();
             host.Close();
-            /* ServicePostComment service = new ServicePostComment();
-             CommentDTO comm = new CommentDTO() { Text = "A doilea comment pentru primul post" };
-             service.SubmitComment(1, comm);*/
-
-
-
         }
     }
 }

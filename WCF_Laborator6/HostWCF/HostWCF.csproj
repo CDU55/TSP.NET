@@ -69,10 +69,6 @@
       <Project>{BFF999B2-934A-4317-9717-1FDCF0CC1F3E}</Project>
       <Name>ObjectWCF</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PostComment\PostComment.csproj">
-      <Project>{9AF7C99A-F944-4077-86D9-08F4D67CC8D7}</Project>
-      <Name>PostComment</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
