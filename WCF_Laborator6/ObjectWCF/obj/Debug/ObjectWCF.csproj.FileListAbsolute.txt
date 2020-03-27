@@ -9,3 +9,6 @@ C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\o
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\obj\Debug\ObjectWCF.dll
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\obj\Debug\ObjectWCF.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\bin\Debug\AutoMapper.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\bin\Debug\AutoMapper.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ObjectWCF\bin\Debug\AutoMapper.xml

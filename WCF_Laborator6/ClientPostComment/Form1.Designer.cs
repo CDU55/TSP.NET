@@ -37,17 +37,17 @@
             // dgc
             // 
             this.dgc.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgc.Location = new System.Drawing.Point(12, 66);
+            this.dgc.Location = new System.Drawing.Point(178, 304);
             this.dgc.Name = "dgc";
-            this.dgc.Size = new System.Drawing.Size(360, 196);
+            this.dgc.Size = new System.Drawing.Size(479, 196);
             this.dgc.TabIndex = 0;
             // 
             // dgp
             // 
             this.dgp.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgp.Location = new System.Drawing.Point(428, 66);
+            this.dgp.Location = new System.Drawing.Point(178, 74);
             this.dgp.Name = "dgp";
-            this.dgp.Size = new System.Drawing.Size(347, 196);
+            this.dgp.Size = new System.Drawing.Size(479, 196);
             this.dgp.TabIndex = 1;
             this.dgp.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgp_CellMouseClick);
             // 
@@ -55,7 +55,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 557);
             this.Controls.Add(this.dgp);
             this.Controls.Add(this.dgc);
             this.Name = "Form1";

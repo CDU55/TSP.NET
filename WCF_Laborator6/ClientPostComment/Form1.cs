@@ -1,13 +1,7 @@
 ﻿using PostComment;
-using PostCommentService;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ClientPostComment
@@ -15,10 +9,11 @@ namespace ClientPostComment
     public partial class Form1 : Form
     {
         List<PostDTO> posts = new List<PostDTO>();
-
         public Form1()
         {
             InitializeComponent();
+            posts = LoadPosts().ToList<PostDTO>();
+            dgp.DataSource = posts;
         }
         // Handler pentru evenimentul Load al ferestrei principale
         private void Form1_Load(object sender, EventArgs e)
@@ -29,10 +24,10 @@ namespace ClientPostComment
             if (dgp.Rows.Count > 0)
                 dgc.DataSource = posts[0].Comments;
         }
-        private static PostDTO[] LoadPosts()
+        private static PostComment.PostDTO[] LoadPosts()
         {
-            ServicePostComment pc = new ServicePostComment();
-            PostDTO[] p = pc.GetAllPosts().ToArray();
+            PostCommentClient pc = new PostCommentClient();
+            PostComment.PostDTO[] p = pc.GetAllPosts();
             return p;
         }
         // Handler pentru evenimentul CellMouseClick din DatagridView numit dgp

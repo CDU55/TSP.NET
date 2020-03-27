@@ -1,10 +1,8 @@
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\HostWCF.exe.config
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\HostWCF.exe
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\HostWCF.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\ObjectWCF.dll
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\PostComment.dll
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\EntityFramework.dll
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\ObjectWCF.pdb
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\PostComment.pdb
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\PostComment.dll.config
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\EntityFramework.xml
@@ -12,3 +10,10 @@ C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\obj
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\obj\Debug\HostWCF.exe
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\obj\Debug\HostWCF.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\AutoMapper.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\AutoMapper.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\AutoMapper.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\HostWCF\bin\Debug\ObjectWCF.pdb

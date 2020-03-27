@@ -9,3 +9,6 @@ C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\obj\Debug\PostComment.csproj.CopyComplete
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\obj\Debug\PostComment.dll
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\obj\Debug\PostComment.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\bin\Debug\AutoMapper.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\bin\Debug\AutoMapper.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostComment\bin\Debug\AutoMapper.xml

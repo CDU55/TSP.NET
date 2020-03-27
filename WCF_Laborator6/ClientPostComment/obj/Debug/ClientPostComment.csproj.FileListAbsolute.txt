@@ -5,17 +5,5 @@ C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostC
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\ClientPostComment.exe.config
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\ClientPostComment.exe
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\ClientPostComment.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostComment.dll
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\EntityFramework.dll
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostComment.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostComment.dll.config
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\EntityFramework.xml
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\obj\Debug\ClientPostComment.csproj.CopyComplete
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\obj\Debug\ClientPostComment.exe
 C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\obj\Debug\ClientPostComment.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostCommentService.dll
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\AutoMapper.dll
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostCommentService.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\PostCommentService.dll.config
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\AutoMapper.pdb
-C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\ClientPostComment\bin\Debug\AutoMapper.xml
