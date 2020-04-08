@@ -1,0 +1,17 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.csproj.CopyComplete
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.deps.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.runtimeconfig.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\bin\Debug\netcoreapp3.1\gRPCGreeterClient.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_Laborator7\GrpcGreeter\gRPCGreeterClient\obj\Debug\netcoreapp3.1\gRPCGreeterClient.pdb
