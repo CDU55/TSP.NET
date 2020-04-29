@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\GrpcServer\\GrpcServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\GrpcServer\\GrpcServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\GrpcServer\\GrpcServer.csproj",
+        "projectName": "GrpcServer",
+        "projectPath": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\GrpcServer\\GrpcServer.csproj",
+        "packagesPath": "C:\\Users\\Claudiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\GrpcServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Claudiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\PostComment\\PostComment.csproj": {
+                "projectPath": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\PostComment\\PostComment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\PostComment\\PostComment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\PostComment\\PostComment.csproj",
+        "projectName": "PostComment",
+        "projectPath": "C:\\Users\\Claudiu\\Desktop\\An3_Sem2\\TSP.NET\\Laboratoare\\gRPC_si_EF\\PostComment\\PostComment.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

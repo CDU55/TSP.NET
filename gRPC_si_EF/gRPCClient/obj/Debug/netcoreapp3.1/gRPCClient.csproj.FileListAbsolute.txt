@@ -1,0 +1,16 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.exe
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.csproj.CopyComplete
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.deps.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.runtimeconfig.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\gRPCClient.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\gRPC_si_EF\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.pdb

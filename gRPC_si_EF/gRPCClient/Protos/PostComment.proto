@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+service PostCommentService{
+
+rpc GetPostById(ObjectIdRequest) returns (PostDTO);
+rpc GetPostByTitle(StringRequest) returns(PostDTO);
+rpc SubmitPost(PostDTO) returns(PostDTO);
+rpc UpdatePost(PostDTO) returns(PostDTO);
+rpc DeletePost(ObjectIdRequest) returns(BoolReply);
+rpc GetAllPosts(EmptyMessage) returns(PostDTOCollenction);
+rpc GetCommentById(ObjectIdRequest) returns (CommentDTO);
+rpc SubmitComment(CommentDTO) returns(CommentDTO);
+rpc AddComment(CommentAndPostId) returns(CommentDTO);
+rpc UpdateComment(UpdateCommentMessage) returns(CommentDTO);
+rpc DeleteComment(ObjectIdRequest) returns(BoolReply);
+rpc GetAllPostRelateComments(ObjectIdRequest) returns(CommentDTOCollection);
+}
+
+message PostDTO{
+	int32 PostId=1;
+	string Description=2;
+	string Domain=3;
+	repeated int32 CommentsId=4;
+}
+
+message PostDTOCollenction{
+	repeated PostDTO Posts=1;
+}
+message CommentDTO{
+	int32 CommentId=1;
+	string Text=2;
+	int32 PostId=3;
+}
+message CommentDTOCollection{
+	repeated CommentDTO comments=1;
+}
+message ObjectIdRequest
+{
+	int32 Id=1;
+}
+
+message StringRequest
+{
+	string StringParam=1;
+}
+message BoolReply
+{
+	bool reply=1;
+}
+message CommentAndPostId{
+	int32 PostId=1;
+	CommentDTO comment=2;
+}
+
+message UpdateCommentMessage{
+	CommentDTO old=1;
+	CommentDTO new=2;
+}
+message EmptyMessage{
+
+}
