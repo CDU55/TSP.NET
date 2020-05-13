@@ -1,0 +1,17 @@
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostCommentService.dll.config
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostCommentService.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostCommentService.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\AutoMapper.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\EntityFramework.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostComment.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostComment.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\PostComment.dll.config
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\AutoMapper.pdb
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\AutoMapper.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\EntityFramework.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\obj\Debug\PostCommentService.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\obj\Debug\PostCommentService.csproj.CopyComplete
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\obj\Debug\PostCommentService.dll
+C:\Users\Claudiu\Desktop\An3_Sem2\TSP.NET\Laboratoare\WCF_Laborator6\PostCommentService\obj\Debug\PostCommentService.pdb
